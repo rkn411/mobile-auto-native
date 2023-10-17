@@ -126,7 +126,7 @@ public class MobileTest extends DriverManager{
 	 * 
 	 * Search Results and add item to wish list
 	 * 
-	 * @throws Exception
+	 * @throws Exceptionsxx
 	 */
 	@Test(priority = 3)
 	public void searchTest() throws Exception {
